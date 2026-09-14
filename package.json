@@ -1,0 +1,22 @@
+{
+  "name": "karolserv",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000k\u0000a\u0000r\u0000o\u0000l\u0000\r\u0000 \u0000#\u0000 \u0000k\u0000a\u0000r\u0000o\u0000l\u0000\r\u0000 \u0000",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karol5228/karol.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/karol5228/karol/issues"
+  },
+  "homepage": "https://github.com/karol5228/karol#readme"
+}

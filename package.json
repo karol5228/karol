@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/karol5228/karol/issues"
   },
-  "homepage": "https://github.com/karol5228/karol#readme"
+  "homepage": "https://github.com/karol5228/karol#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
